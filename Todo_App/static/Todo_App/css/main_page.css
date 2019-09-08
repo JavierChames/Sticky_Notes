@@ -1,0 +1,34 @@
+h1,
+span {
+  font-family: "Reenie Beanie", arial, sans-serif;
+  font-size: 180%;
+  font-weight: bold;
+}
+
+.center-text {
+  text-align: center;
+  margin-top: 5%;
+}
+
+input[type="text"] {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+ul {
+  text-align: left;
+}
+
+.lineThrough {
+  text-decoration: line-through;
+}
+
+.space {
+  padding: 5%;
+}
+
